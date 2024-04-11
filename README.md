@@ -3,6 +3,8 @@
 <!--
 **mypixelquest/mypixelquest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![mypixelquest](https://github.com/mypixelquest/mypixelquest/assets/161330323/b0119f09-bcc4-4d52-9f48-13ba82b1aab1)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
